@@ -1,0 +1,22 @@
+a)
+Content-Type: text/plain
+Content-Length: 14
+Server: nginx/1.2.2
+
+b)/image/web_technologies.png /* Каталога "image" не существует*/
+
+Content-Type: text/html
+Content-Length: 570
+Server: nginx/1.2.2
+
+/images/web_technologies.png
+
+Content-Type: text/html
+Content-Length: 570
+Server: nginx/1.2.2
+
+c)
+Content-Type: image/png
+Content-Length: 335525
+Server: nginx/1.2.2
+

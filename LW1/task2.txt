@@ -1,0 +1,15 @@
+a) http://localhost:8070/lw1/mysql_is_a_database_server.html 
+Status Code: 404 Not Found
+Ошибка. Запрашиваемый файл на сервере не найден. Добавить файл / Убедиться в правильности адреса
+
+b) http://localhost:8070/lw1/mysql_is_a_database_server.html 
+Status Code: 200 OK
+Успех.
+
+с) http://localhost:8070/lw1/php_is_a_server_scripting_language.php
+Status Code: 302 Found
+Перадресация на http://fi2.php.net/manual/ru/
+
+d) http://localhost:8070/lw1/javascript_is_a_client_side_language.php?how_to_work=hardly
+Status Code: 400 Work hard!
+Плохой запрос. Для всех запросов кроме запросов с параметром ?how_to_work=hard
