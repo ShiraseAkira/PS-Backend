@@ -1,1 +1,1 @@
-Совершенный код
+UTF-16 (Little endian) with BOM
