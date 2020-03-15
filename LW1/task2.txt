@@ -1,15 +1,15 @@
 a) http://localhost:8070/lw1/mysql_is_a_database_server.html 
 Status Code: 404 Not Found
-Ошибка. Запрашиваемый файл на сервере не найден. Добавить файл / Убедиться в правильности адреса
+РћС€РёР±РєР°. Р—Р°РїСЂР°С€РёРІР°РµРјС‹Р№ С„Р°Р№Р» РЅР° СЃРµСЂРІРµСЂРµ РЅРµ РЅР°Р№РґРµРЅ. Р”РѕР±Р°РІРёС‚СЊ С„Р°Р№Р» / РЈР±РµРґРёС‚СЊСЃСЏ РІ РїСЂР°РІРёР»СЊРЅРѕСЃС‚Рё Р°РґСЂРµСЃР°
 
 b) http://localhost:8070/lw1/mysql_is_a_database_server.html 
 Status Code: 200 OK
-Успех.
+РЈСЃРїРµС….
 
-с) http://localhost:8070/lw1/php_is_a_server_scripting_language.php
+СЃ) http://localhost:8070/lw1/php_is_a_server_scripting_language.php
 Status Code: 302 Found
-Перадресация на http://fi2.php.net/manual/ru/
+РџРµСЂР°РґСЂРµСЃР°С†РёСЏ РЅР° http://fi2.php.net/manual/ru/
 
 d) http://localhost:8070/lw1/javascript_is_a_client_side_language.php?how_to_work=hardly
 Status Code: 400 Work hard!
-Плохой запрос. Для всех запросов кроме запросов с параметром ?how_to_work=hard
+РџР»РѕС…РѕР№ Р·Р°РїСЂРѕСЃ. Р”Р»СЏ РІСЃРµС… Р·Р°РїСЂРѕСЃРѕРІ РєСЂРѕРјРµ Р·Р°РїСЂРѕСЃРѕРІ СЃ РїР°СЂР°РјРµС‚СЂРѕРј ?how_to_work=hard
